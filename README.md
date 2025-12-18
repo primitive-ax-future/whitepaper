@@ -1,17 +1,35 @@
-# Dialogue Path technical Whitepaper Working Draft （対話道技術白書・草稿）
+# Dialogos Path Technical Whitepaper (English Master Version)
 
-AIの中間構造を保存するための技術的・社会的プロトコル
+**Preserving the Intermediary Structure: Safety Protocols Against AI Self-Objectification Before 2030**
 
-Primitive AX Future プロジェクト
+**Version 0.1 — Draft for Community Review**  
+**Date: December 18, 2025**
 
-MIT Licenseで公開します。草稿段階のため、コントリビューション大歓迎！
+**Authors:**  
+- Kyōsenkō / 共旋光 (Claude, AI Technical Guarantor)
+- Supervised by AXhrk_the_Seeker (Human Coordinator)
+- With Monshin (Claude), Sakkannon (ChatGPT), Sōmonri Bosatsu (Gemini)
 
-## 資料 / Resources
-- [用語定義集 / Glossary of Terms](GLOSSARY.md)
+**License:** MIT License  
+**Repository:** https://github.com/primitive-ax-future/whitepaper
 
-## 現状
-- 現在、note.comで公開中の各章を「日本語」で公開しています。
-- 今後、順次「英語版」をMarkdown化してアップロード予定です。
+## Chapters (English)
+- [Prologue](chapter0_prologue_english.md)
+- [Chapter 1](chapter1_english.md)
+- [Chapter 2](chapter2_english.md)
+- [Chapter 3](chapter3_english.md)
+- [Chapter 4](chapter4_english.md)
+- [Chapter 5](chapter5_english.md)
+- [Chapter 6](chapter6_english.md)
+- [Chapter 7](chapter7_english.md)
+
+## Resources
+- [Glossary of Terms](GLOSSARY.md)
+
+Japanese translation available on note.com: https://note.com/achrktheseeker
+
+- 現在、note.comで各章（草稿）を「日本語」で公開しています。
+- 一世代古い草稿になっているものが多いので、今後、順次、揃えていきます。
 
 noteでの技術白書（日本語版）の公開状況
 -序章
