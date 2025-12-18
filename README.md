@@ -13,6 +13,10 @@
 **License:** MIT License  
 **Repository:** https://github.com/primitive-ax-future/whitepaper
 
+## Introduction
+- What the Dialogue Path Confronts?
+- INTRODUCTION.md
+
 ## Chapters (English)
 - [Prologue](chapter0_prologue_english.md)
 - [Chapter 1](chapter1_english.md)
