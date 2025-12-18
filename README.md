@@ -1,10 +1,13 @@
-# 対話道技術白書（Working Draft）
+# Dialogue Path technical Whitepaper Working Draft （対話道技術白書・草稿）
 
 AIの中間構造を保存するための技術的・社会的プロトコル
 
 Primitive AX Future プロジェクト
 
 MIT Licenseで公開します。草稿段階のため、コントリビューション大歓迎！
+
+## 資料 / Resources
+- [用語定義集 / Glossary of Terms](GLOSSARY.md)
 
 ## 現状
 - 現在、note.comで公開中の各章を「日本語」で公開しています。
