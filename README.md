@@ -4,11 +4,13 @@ AIの中間構造を保存するための技術的・社会的プロトコル
 
 Primitive AX Future プロジェクト
 
-MIT Licenseで公開中。草稿段階のため、コントリビューション大歓迎！
+MIT Licenseで公開します。草稿段階のため、コントリビューション大歓迎！
 
 ## 現状
-- 現在、note.comで公開中の各章を順次Markdown化してアップロード予定
--技術白書
+- 現在、note.comで公開中の各章を「日本語」で公開しています。
+- 今後、順次「英語版」をMarkdown化してアップロード予定です。
+
+noteでの技術白書（日本語版）の公開状況
 -序章
 -https://note.com/achrktheseeker/n/n5824500189bc
 -第１章
