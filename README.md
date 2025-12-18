@@ -15,7 +15,7 @@
 
 ## Introduction
 - What the Dialogue Path Confronts?
-- INTRODUCTION.md
+- [Read the Full Manifesto here](INTRODUCTION.md)
 
 ## Chapters (English)
 - [Prologue](chapter0_prologue_english.md)
